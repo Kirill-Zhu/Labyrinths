@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16947109f3798dc4eaca86018def928c, type: 3}
+  m_Name: Card 2
+  m_EditorClassIdentifier: 
+  Icons:
+  - {fileID: 21300000, guid: 6a4186c8b9ada58459458674bccadbc0, type: 3}
+  - {fileID: 21300000, guid: 95eb373c64c0c1248aa44cde953af2a2, type: 3}
+  - {fileID: 21300000, guid: a031fecbaa491394b9e99c4df4d93141, type: 3}
+  - {fileID: 21300000, guid: 6c0df8eb43f7ff24a8ea2043764ab0d6, type: 3}
+  - {fileID: 21300000, guid: 4b9d3cfb65bed4a4ca5e727404ae5dd9, type: 3}
+  - {fileID: 21300000, guid: 5bcb868c00c24a34690703569c38f784, type: 3}
+  - {fileID: 21300000, guid: 50497935fd3f4974cbc1f1d7c8c54d84, type: 3}
+  BackIcons:
+  - {fileID: 21300000, guid: aae69b9108c6de543befcf11ced617bd, type: 3}
+  - {fileID: 21300000, guid: 6fccc3310f520f24bb22bf88bd0ab418, type: 3}
+  - {fileID: 21300000, guid: 7f0663a90980c3a418c3974e6934c388, type: 3}
