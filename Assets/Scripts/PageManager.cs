@@ -238,7 +238,7 @@ public class PageManager : MonoBehaviour
         await Task.Delay(Constants.DelayForAnimations);
 
         _buttonNext.onClick.AddListener(() => OpenKolksyiPage());
-        _nextBUtton.ChangeText("лабиринты кольсокго полуострова");
+        _nextBUtton.ChangeText("Лабиринты кольсокго полуострова");
         
         _buttonBack.onClick.AddListener(() => OpenFactsPage5());
 
